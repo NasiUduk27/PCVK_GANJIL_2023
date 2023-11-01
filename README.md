@@ -12,3 +12,5 @@
 |Week 05         |https://github.com/NasiUduk27/PCVK_GANJIL_2023/blob/main/Week5.ipynb
 |Week 06         |https://github.com/NasiUduk27/PCVK_GANJIL_2023/blob/main/Week6.ipynb
 |Week 07         |https://github.com/NasiUduk27/PCVK_GANJIL_2023/blob/main/Week7.ipynb 
+|Week 08        |https://github.com/NasiUduk27/PCVK_GANJIL_2023/blob/main/Week8.ipynb 
+|Week 10         |https://github.com/NasiUduk27/PCVK_GANJIL_2023/blob/main/Week10.ipynb 
